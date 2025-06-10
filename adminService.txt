@@ -1,7 +1,11 @@
 add and remove users
 change the roles
 manage the database
+<<<<<<< HEAD
 closing the oracle databse connection
+=======
+closing the mysql databse connection
+>>>>>>> ed74c6cd9d144bcff0fa9268cac183d7d7f7cc05
 
 create an avatar for user
 
