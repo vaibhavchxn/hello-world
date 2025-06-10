@@ -6,5 +6,4 @@ create an avatar for user
 login and logout
 
 change 1
-change 2
-change 3
+change 2 in my database
